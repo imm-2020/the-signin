@@ -58,6 +58,9 @@ button.signin:hover {
   height: 100%;
   background-color: rgba(30,30,30,0.8);
 }
+.modal.show {
+  display: block;
+}
 
 .getstarted {
   display: block;
@@ -129,3 +132,5 @@ input.field.error {
   background-color: #f7d0cd;
   color: #111;
 }
+
+
